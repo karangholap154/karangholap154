@@ -32,6 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karangholap154&" alt="karangholap154" /></p>
 
-<img src="https://raw.githubusercontent.com/karangholap154/karangholap154/output/snake.svg" alt="Snake animation" />
-
-###
