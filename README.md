@@ -10,7 +10,7 @@
 </p>
 
 - 🌱 I’m currently learning **Backend**
-- 📝 I regularly write articles on [https://medium.com/@karan_gholap](https://medium.com/@karan_gholap)
+- 📝 I regularly write articles on [https://medium.com/@karan_gholap](https://medium.com/@karangholap_)
 - 💬 Ask me about **React.js, Frontend, JavaScript, Python**
 - 📫 How to reach me **karangholap.work@gmail.com**
 
