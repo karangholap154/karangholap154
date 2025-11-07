@@ -4,8 +4,8 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=karangholap154&label=Profile%20views&color=0e75b6&style=flat" alt="karangholap154" />
   <br/> 
-  <a href="https://twitter.com/karangholap_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/karangholap_?logo=twitter&style=for-the-badge" alt="karangholap_" />
+  <a href="https://twitter.com/TheKaranGholap" target="blank">
+    <img src="https://img.shields.io/twitter/follow/karangholap_?logo=twitter&style=for-the-badge" alt="TheKaranGholap" />
   </a>
 </p>
 
