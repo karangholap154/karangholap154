@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://twitter.com/karangholap_" target="blank">
+  <a href="https://twitter.com/TheKaranGholap" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karangholap_" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/karangholap" target="blank">
